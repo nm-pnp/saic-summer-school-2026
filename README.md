@@ -1,4 +1,4 @@
-# Onboarding a traveller in under a minute
+# Place & Purpoe - Onboarding a traveller in under a minute
 
 **Place & Purpose — case study for the HES-SO / Swiss AI Center Summer School
 “AI & Data Services”, Lausanne, 31 August – 4 September 2026.**
